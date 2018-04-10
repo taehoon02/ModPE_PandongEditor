@@ -1,0 +1,4 @@
+name : Pandong Editor
+version : 1.4.2
+maker : Pandong
+editor : Irenebode
